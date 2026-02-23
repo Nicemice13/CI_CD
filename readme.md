@@ -10,8 +10,8 @@
 - ✅ Автоматический деплой на продакшн (CD)
 
 ### 🔗 Ссылки
-- **Live Demo**: [https://web-production-54910.up.railway.app/](https://...)
-- **API Docs**: [https://web-production-54910.up.railway.app/docs](https://...)
+- **Live Demo**:[https://web-production-54910.up.railway.app]
+- **API Docs**:[https://web-production-54910.up.railway.app/docs]
 
 ## 🛠 Технологический стек
 
